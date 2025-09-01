@@ -53,4 +53,3 @@ We welcome contributions to improve these tutorials whether it's improvements or
 - **[Technical Issues](https://github.com/sixtyfour-ai/notebooks/issues)** - GitHub issues
 - **API Support** - [saarth@sixtyfour.ai](mailto:saarth@sixtyfour.ai)
 - **Sales Questions** - [chrisprice@sixtyfour.ai](mailto:chrisprice@sixtyfour.ai)
-
