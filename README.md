@@ -24,6 +24,14 @@ Get started with SixtyFour's powerful AI-driven data enrichment platform through
 | **[Company Enrichment](sixtyfour_enrich_company_tutorial.ipynb)** | Deep company research and data structuring | Lead qualification, market research, competitive analysis | ⭐⭐⭐ |
 | **[Lead Enrichment](sixtyfour_enrich_lead_tutorial.ipynb)** | Individual prospect research and contact discovery | Sales prospecting, candidate sourcing, relationship mapping | ⭐⭐⭐ |
 
+### Fast Search APIs
+
+| Notebook | Description | Use Cases | Complexity |
+|----------|-------------|-----------|------------|
+| **[Fast Company Search](sixtyfour_fast_company_search_tutorial.ipynb)** | Resolve a company from a URL/name and pull finance & ops decision makers in seconds | High-volume lead scoring, CRM hydration, real-time form enrichment | ⭐⭐⭐ |
+
+> **Enrichment vs. Search:** `enrich-company` sends an agent to read the live web — it answers anything you can describe, in 5–10 minutes. `/search/query` queries a pre-built index — a fixed set of fields, in 5–10 seconds. Use Search for speed and volume; use Enrichment for depth.
+
 ### Contact Discovery APIs
 
 | Notebook | Description | Use Cases | Complexity |
